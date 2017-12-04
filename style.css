@@ -1,0 +1,45 @@
+    
+    #about_me{
+        font-size: 30px;
+        font-weight: strong;
+        color: purple;
+        margin-left: 100px;
+        margin-top: 20px;
+        
+    }
+
+    mark1{
+background-color:#D8F6F0;
+color: black;
+font-weight: bold;
+font-size: 36px;
+    }
+    
+
+    mark {
+        background-color: white;
+
+    }
+    
+    .thumbnail{
+        float: left;
+        border: 1px solid blue; 
+        margin-left: 100px; 
+    }
+
+    .container{
+        background-color: #EEEAEA;
+          
+    }
+
+    .col-sm-3{
+        font-size: 30px;      
+        margin-top: 20px;
+        margin-right: 200px;   
+        background-color: white;    
+    }
+
+    .panel-body{
+        text-align: center;
+        background-color: #D8F6F0;
+    }
