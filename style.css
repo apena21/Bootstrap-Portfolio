@@ -1,45 +1,161 @@
     
-    #about_me{
-        font-size: 30px;
-        font-weight: strong;
-        color: purple;
-        margin-left: 100px;
-        margin-top: 20px;
+   
+        
+    }
+    .col-sm-9 h2{
+        color: blueviolet;
         
     }
 
     mark1{
-background-color:#D8F6F0;
-color: black;
-font-weight: bold;
-font-size: 36px;
+    background-color: lightgray;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 35 px;
+    
     }
     
 
     mark {
         background-color: white;
+        color: blueviolet;
 
     }
     
     .thumbnail{
         float: left;
-        border: 1px solid blue; 
-        margin-left: 100px; 
+        margin-left: 20px; 
+        height: 150px; 
+        width: 200px;
+        padding: 5px;
+    }
+
+    .row{
+        margin-right: -100px;
+        margin-left: -15px;
+        
+
+    }
+
+    #text{
+     margin-left: 20px;  
     }
 
     .container{
         background-color: #EEEAEA;
-          
+        width: 60%;
+        margin-left: 50px;
+        float: left;
+                
     }
 
+     .container2{
+          
+         float: right;  
+         font-weight: bold;    
+     }
+     
     .col-sm-3{
-        font-size: 30px;      
-        margin-top: 20px;
-        margin-right: 200px;   
-        background-color: white;    
+        clear:both;
+        float: right;
+        width: 20%;    
+        font-weight: bold;  
+        
+        
+        color: blueviolet;  
+        border: 1px solid pink;
+    }
+
+    #connect{
+        clear: both;
+        font-size: 30px;
+    }
+
+    #ConnectContact{
+        clear: both;
+        font-size: 30px;
+        margin-top: -500px;
+      
+    }
+
+    #connectAbout{
+    clear: both;
+    background-color: lightgray;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 0px;
+    margin-right: 50px;
+
+
+
     }
 
     .panel-body{
+        clear: both;
         text-align: center;
         background-color: #D8F6F0;
+        font-weight: bold;
+    }
+
+    #contact{
+        font-size: 30px;
+        font-weight:bold;
+        color: purple;
+        margin-left: 0px;
+        margin-top: 20px;
+        background-color: #EEEAEA;
+        
+    }
+
+    #exampleInputMessage1{
+        height: 200px;
+    }
+
+    .portfolioHeader{
+        font-size: 30px;
+        font-weight:bold;
+        color: purple;
+        margin-left: 0px;
+        margin-top: 20px;
+        background-color: #EEEAEA;
+
+    }
+
+    .leftpics{
+        margin-left: -110px;
+        text-align: left;
+        height: 200px;
+        width: 250px;
+
+    }
+
+    .rightpics{
+        margin-left: -300px;
+        text-align: leftba;
+        height: 200px;
+        width: 250px;
+
+    }
+
+    .leftcaption{
+
+             
+
+    }
+
+    .rightcaption{
+        margin-left: 15px;
+        margin-top: -200px;
+        background-color: #EEEAEA;
+        height: 105px;
+             
+    }
+
+    #hangman{
+        background-color: #EEEAEA;
+        margin-top: -200px; 
+        text-align: center;
+        vertical-align: center;
     }
