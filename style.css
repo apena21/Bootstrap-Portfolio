@@ -1,7 +1,7 @@
-    .col-sm-9 h2{
+    /* .col-sm-9 h2{
         color: blueviolet;
         
-    }
+    } */
 
     mark1{
     background-color: lightgray;
@@ -27,36 +27,34 @@
         padding: 5px;
     }
 
-    .row{
+    /* .main-row{
         clear: both;
         margin-right: -100px;
         margin-left: -15px;
         
 
-    }
+    }  */
 
     #text{
     border: 1px solid pink;
       
     }
 
-    .container{
+    /* .container{
         background-color: #EEEAEA;
         width: 60%;
         margin-left: 50px;
         float: left;
-        
-                
-    }
+    } */
 
-     .container2{
+     /* .container2{
           
          float: right;  
          font-weight: bold; 
          margin-right: 50px;   
-     }
+     } */
      
-    .col-sm-3{
+    /* .col-sm-3{
         clear:both;
         float: right;
         width: 20%;    
@@ -64,8 +62,8 @@
         
         
         color: blueviolet;  
-        border: 1px solid pink;
-    }
+       
+    } */
 
     #connect{
         clear: both;
@@ -92,11 +90,12 @@
 
     }
 
-    .panel-body{
+    .navbar-fixed-bottom{
         clear: both;
         text-align: center;
         background-color: #D8F6F0;
         font-weight: bold;
+        margin-top: 25px;
     }
 
     #contact{
@@ -109,10 +108,10 @@
         
     }
     
-    .col-sm-7 H2 {
+    /* .col-sm-7 H2 {
     color: blueviolet;      
 
-    }
+    } */
 
     #exampleInputMessage1{
         height: 200px;
@@ -129,7 +128,7 @@
 
     }
 
-    .leftpics{
+    /* .leftpics{
         margin-left: -110px;
         text-align: left;
         height: 200px;
@@ -143,7 +142,7 @@
         height: 200px;
         width: 250px;
 
-    }
+    } */
 
     .leftcaption{
 
@@ -151,13 +150,13 @@
 
     }
 
-    .rightcaption{
+    /* .rightcaption{
         margin-left: 15px;
         margin-top: -200px;
         background-color: #EEEAEA;
         height: 105px;
              
-    }
+    } */
 
     #hangman{
         background-color: #EEEAEA;
@@ -166,4 +165,17 @@
         vertical-align: center;
     }
 
-    
+    .copyright{
+        text-align: center;
+        margin-top: 10px;
+    }
+
+
+    .left-content,
+    .right-content {
+        background-color: #eaeaea;
+    }
+
+    .left-content {
+        margin-right: 0px;
+    }
